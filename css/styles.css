@@ -295,22 +295,18 @@ img {
 .ficons:hover {
     background-color: #31d0aa;
 }
-
 .ficons:focus {
     background-color: #31d0aa;
 }
-
 .footer-social-cont {
     margin-bottom: 72px;
 }
-
 .footer-form {
     display: flex;
     gap: 24px;
     flex-direction: column;
     align-items: center;
 }
-
 .footer-mail-form {
     width: 264px;
     height: 40px;
